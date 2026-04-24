@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI Engineer | Machine Learning Enthusiast | Problem Solver<br><br>- Building intelligent systems with Machine Learning and NLP  <br>- Working on projects involving anomaly detection, healthcare AI, and speech emotion recognition  <br>- Interested in Generative AI, LLMs, MLOps, and scalable AI systems  <br>- Background in Python, TensorFlow, Scikit-learn, and Web Development  <br>- Open to collaboration on AI and open-source projects  
+AI Engineer | Machine Learning Enthusiast | Problem Solver<br><br>- Building intelligent systems with AI and Machine Learning   <br>- Working on projects involving Chatbots, healthcare AI, and speech emotion recognition  <br>- Interested in Generative AI, LLMs, MLOps, and scalable AI systems  <br>- Background in Python, TensorFlow, Scikit-learn,PyTorch and Web Development  <br>- Open to collaboration on AI and open-source projects  
 
 
 ## 🌐 Socials:
